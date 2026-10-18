@@ -20,7 +20,7 @@ portafolio-by-sofii/
 ├── README.md           # Documentación del proyecto
 └── img/
     ├── foto.jpg        # Foto de perfil personal
-    └── LEEME.txt        # Instrucciones para la foto
+   
 ```
 
 ## 📜 Secciones del Portafolio
